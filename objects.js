@@ -1,2 +1,4 @@
 
-playlist {['artist', 'song']}
+var objectName = {
+  playlist: artist, song
+};
