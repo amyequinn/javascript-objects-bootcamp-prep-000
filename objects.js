@@ -8,7 +8,7 @@ var playlist = new Object({keys: '0'});
   return playlist
 }
 
-function removeFromPlaylist(plalist, artistName) {
+function removeFromPlaylist(playlist, artistName) {
   playlist[artistName]
   return playlist
 }
