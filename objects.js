@@ -9,6 +9,6 @@ var playlist = new Object({keys: '0'});
 }
 
 function removeFromPlaylist(playlist, artistName) {
-  playlist[artistName]
+  delete playlist[artistName]
   return playlist
 }
