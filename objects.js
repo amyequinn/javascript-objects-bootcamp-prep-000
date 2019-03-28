@@ -1,1 +1,2 @@
-Object.assign(playlist, {['artist', 'song']})
+
+playlist {'artist', 'song'}
