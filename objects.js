@@ -1,4 +1,2 @@
 
-var playlist = {
-  playlist: artist, song
-};
+Playlist: ['Artist', 'Song']
