@@ -1,2 +1,2 @@
 
-Playlist: ['Artist', 'Song']
+var playlist = {'oatmeal','burrito'}
