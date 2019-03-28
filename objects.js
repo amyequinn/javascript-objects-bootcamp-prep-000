@@ -1,2 +1,2 @@
 
-playlist {'artist', 'song'}
+playlist {['artist', 'song']}
