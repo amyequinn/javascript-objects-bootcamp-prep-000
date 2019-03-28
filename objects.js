@@ -1,4 +1,4 @@
 
-var objectName = {
+var playlist = {
   playlist: artist, song
 };
