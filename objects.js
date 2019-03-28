@@ -1,2 +1,2 @@
 
-var playlist = {'oatmeal','burrito'}
+var playlist = {'oatmeal','burrito'};
