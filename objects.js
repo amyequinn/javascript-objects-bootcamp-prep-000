@@ -1,3 +1,3 @@
 
 
-var meals = new Object({ playlist: 'oatmeal', 'burrito'})
+new Object({ playlist: 'oatmeal', 'burrito'})
